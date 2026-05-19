@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local scratch
+/tmp/
+*.log
+
+# Python (in case examples are added later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
